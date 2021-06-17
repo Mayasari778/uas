@@ -1,0 +1,7 @@
+main() {
+  var nama;
+  print(nama ?? "Mayasari");
+  
+  var nama2 = "btsarmy";
+  print(nama2 ?? "Mayasari");
+}
